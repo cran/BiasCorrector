@@ -1,7 +1,7 @@
 Package: BiasCorrector
 Title: A GUI to Correct Measurement Bias in DNA Methylation Analyses
-Version: 0.1.1
-Date: 2020-08-24
+Version: 0.1.2
+Date: 2020-09-22
 Authors@R: 
     c(person(given = "Lorenz A.",
              family = "Kapsner",
@@ -26,10 +26,10 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.1.1
 NeedsCompilation: no
-Packaged: 2020-08-24 06:51:22 UTC; user
+Packaged: 2020-09-22 11:51:59 UTC; user
 Author: Lorenz A. Kapsner [cre, aut, cph]
     (<https://orcid.org/0000-0003-1866-860X>),
   Evgeny A. Moskalev [aut]
 Maintainer: Lorenz A. Kapsner <lorenz.kapsner@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-08-24 15:20:08 UTC
+Date/Publication: 2020-09-22 15:20:21 UTC
