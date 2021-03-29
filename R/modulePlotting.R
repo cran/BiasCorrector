@@ -158,7 +158,8 @@ module_plotting_server <- function(input,
               # save regression statistics to reactive value
               rv$reg_stats[[b]] <- rBiasCorrection::statistics_list(
                 resultlist = rv$result_list,
-                minmax = rv$minmax)
+                minmax = rv$minmax
+              )
               rv$result_list_type2[[b]] <- rv$result_list
               a <- a + 1
             },
