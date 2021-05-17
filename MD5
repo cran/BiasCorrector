@@ -1,4 +1,4 @@
-e6372ce89b8e68520e53fd38c6802b6a *DESCRIPTION
+38c339f4b897c61cde0a15d0a4f1c846 *DESCRIPTION
 f006e4ed4569bc3528f4d286171d90a3 *NAMESPACE
 107bd66ab306123f1afbcaf3f02be988 *R/app_omitnas_modal.R
 bc164468160ab468cbe0aae316001c17 *R/app_render_regressionstatistics.R
@@ -18,7 +18,8 @@ df31eabf612991f754aca732d4da3ff7 *R/moduleResults.R
 033fb7ce0fa00882e1dd2c4728317265 *R/moduleSettings.R
 471d5023208ef115a89b52dac297fbdb *R/moduleStatistics.R
 e74317d0217f92219a907098c51121ac *R/type2Files.R
-1ba169a0cbd41964ab1b6b24274546e4 *README.md
+b23a012fe33eba5ec79ffaae9ec15f21 *README.md
+cdf866ba907a8409d65477a0ffc36d88 *inst/CITATION
 beecb07357ae9f1a2909037453c69d88 *inst/application/global.R
 afa58cdf229fe88c9cd344e78706bf14 *inst/application/server.R
 b303a4822a6841a90cb1f4b626e34054 *inst/application/ui.R
